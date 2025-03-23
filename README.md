@@ -14,6 +14,9 @@ Learning advanced Python functions for software development and data analysis.
 
 Developing and deploying secure web applications with a focus on authentication and access control.
 
+![sumanaaa GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+
+
 🎯 Interests
 
 Data Science & Analytics 📊
