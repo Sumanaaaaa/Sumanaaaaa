@@ -62,7 +62,7 @@ LinkedIn: linkedin.com/in/sumana-ramagiri
 
 GitHub: github.com/SumanaRamagiri
 
-Email: your.email@example.com
+Email:  sumanaramagiri@gmail.com
 
 🌟 Always open to collaboration and new learning opportunities!
 
