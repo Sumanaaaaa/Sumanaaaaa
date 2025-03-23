@@ -1,16 +1,68 @@
-## Hi there 👋
+Hi there, I'm Sumana Ramagiri! 👋
 
-<!--
-**Sumanaaaaa/Sumanaaaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
 
-Here are some ideas to get you started:
+I am a Master's student in Information Systems at George Mason University, passionate about cybersecurity, data analytics, cloud computing, and software development. Currently, I am a Graduate Teaching Assistant for IT 223 - Information Security, helping students understand core security principles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Current Work
+
+Working on cloud computing projects using AWS, Azure, and Google Cloud.
+
+Exploring data structures and algorithms to strengthen my problem-solving skills.
+
+Learning advanced Python functions for software development and data analysis.
+
+Developing and deploying secure web applications with a focus on authentication and access control.
+
+🎯 Interests
+
+Data Science & Analytics 📊
+
+Cybersecurity & Ethical Hacking 🔐
+
+Cloud Computing (AWS, Azure, GCP) ☁️
+
+Software Development & Automation 💻
+
+🛠️ Technologies & Tools
+
+Programming Languages
+
+Python 🐍 | Java ☕ | SQL | JavaScript
+
+Cloud Platforms
+
+AWS | Azure | Google Cloud
+
+Databases
+
+MySQL | PostgreSQL | MongoDB
+
+Cybersecurity
+
+Network Security | Access Control | Authentication
+
+DevOps & Tools
+
+Docker | Git/GitHub | CI/CD | Terraform
+
+📂 Projects
+
+Here are some of my recent projects:
+
+Google App Engine Deployment - Deploying a Python app to GCP.
+
+Amazon WorkSpaces Setup - Configuring a virtual desktop.
+
+Finite State Machine for 2FA - Designing a secure authentication model.
+
+📫 Let's Connect!
+
+LinkedIn: linkedin.com/in/sumana-ramagiri
+
+GitHub: github.com/SumanaRamagiri
+
+Email: your.email@example.com
+
+🌟 Always open to collaboration and new learning opportunities!
+
